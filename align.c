@@ -99,7 +99,8 @@ int main(int argc, char *argv[])
 		getchar();
 		return -1;
 	}
-	 
+	printf("PRESS ENTER TO EXIT\n");
+	getchar();
 	
 	return 0;
 }
